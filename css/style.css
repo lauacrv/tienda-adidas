@@ -658,4 +658,4 @@ main > :last-child { margin-bottom: 0 !important; }
 .pie .legal{
     display: flex;
     gap: var(--space-lg)
-}
+} 
